@@ -1,0 +1,17 @@
+/*
+Theme Name:   Raymond 
+Description:  Where Art Transcends Boundaries  
+Author:       Cleddrence Dalupan 
+Author URI:   https://cleddrence.theloop.wiki
+Template:     twentytwentythree 
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  twentytwentythree 
+*/
+
+.jony {
+	color: red;
+	text-decoration: underline;
+}

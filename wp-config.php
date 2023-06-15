@@ -26,7 +26,7 @@ define( 'DB_NAME', 'raymond' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', '3#eE4$rR5%tT' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
